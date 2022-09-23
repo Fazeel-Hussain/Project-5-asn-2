@@ -9,6 +9,7 @@ using namespace std;
 
 //create a structure to hold student data
 
+
 struct STUDENT_DATA {
 	string fname;
 	string lname;
